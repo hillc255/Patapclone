@@ -11,13 +11,14 @@ Patapclone is the second project in Udemy's "Web Developer Bootcamp" with Instru
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) WARNING:
  The website in this section contains flashing colors.
 
+Try it out!  
 Go to the website and strike keys on the keypad to see the animated circles and hear sounds: </br>
 https://hillc255.github.io/Patapclone/
 
 ## Animated Gif
 
 <p align="center">
- <kbd><img width="700" height="400" src="readme_assets/Patapclone.gif"></kbd>
+ <kbd><img width="750" height="400" src="readme_assets/Patapclone.gif"></kbd>
 </p>
 
 ## Site
