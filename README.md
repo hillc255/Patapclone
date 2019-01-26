@@ -8,8 +8,8 @@ Patapclone is the second project in Udemy's "Web Developer Bootcamp" with Instru
 
 ## Demo
 
-Play the game here: </br>
-https://hillc255.github.io/Pataclone/
+Go to the website and strike keys on the keypad to see the animated circles and hear sounds: </br>
+https://hillc255.github.io/Patapclone/
 
 ## Animated Gif
 
