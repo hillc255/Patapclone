@@ -12,7 +12,7 @@ Patapclone is the second project in Udemy's "Web Developer Bootcamp" with Instru
  The website in this section contains flashing colors.
 
 Try it out!  
-Go to the website and strike keys on the keypad to see the animated circles and hear sounds: </br>
+Go to the website and strike keys on the keypad to see the animated, colorful circles and hear sounds: </br>
 https://hillc255.github.io/Patapclone/
 
 ## Animated Gif
@@ -31,7 +31,8 @@ https://hillc255.github.io/Patapclone/
 
 ### Description
 
-This is a single screen web application.  The animated website displays various size circles and a variety of sounds when keys are pressed.
+This is a single screen web application.  When keys are presssed, the website displays circles of various size and colors.  
+The circles appear from random locations on the screen and are acompanied by a variety of sounds.
 
 ## Motivation
 
