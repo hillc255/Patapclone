@@ -9,7 +9,7 @@ Patapclone is the second project in Udemy's "Web Developer Bootcamp" with Instru
 ## Demo
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) WARNING:
- The website in this section contains flashing colors.
+The animated gif and website in this section contains flashing colors.
 
 Try it out!  
 Go to the website and strike keys on the keypad to see the animated, colorful circles and hear sounds: </br>
