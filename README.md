@@ -17,7 +17,7 @@ https://hillc255.github.io/Patapclone/
 ## Animated Gif
 
 <p align="center">
- <kbd><img width="500" height="400" src="readme_assets/Patapclone.gif"></kbd>
+ <kbd><img width="700" height="400" src="readme_assets/Patapclone.gif"></kbd>
 </p>
 
 ## Site
