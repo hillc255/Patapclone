@@ -12,7 +12,7 @@ Patapclone is the second project in Udemy's "Web Developer Bootcamp" with Instru
 The animated gif and website in this section contains flashing colors.
 
 Try it out!  
-Go to the website and strike keys on the keypad to see the animated, colorful circles and hear sounds: </br>
+Go to the website, click on the screen then strike keys on the keypad to see the animated, colorful circles and hear sounds: </br>
 https://hillc255.github.io/Patapclone/
 
 ## Animated Gif
